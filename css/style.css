@@ -24,3 +24,8 @@ body{
 	font-size: 100%;
 	font-family: "Times New Roman", serif;
 }
+
+h2{
+	color: rgb(111,127,122);
+	font-size: 2em;
+}
